@@ -4,7 +4,7 @@
 <details open>
 <summary><h3>:man_student: About me</h3></summary>
 <br>
-I'm a student of web and mobile programming, looking for an opportunity in the area. I took some web and mobile development courses, I'm currently studying UI/UX in my college and I'm a trainee in a junior web development <a href="https://www.example.com/my great page">company</a> . I have ease in leadership and working with people and I learn quickly.
+I'm a student of web and mobile programming, looking for an opportunity in the area. I took some web and mobile development courses, I'm currently studying UI/UX in my college and I'm a trainee in a junior web development <a href="https://www.linkedin.com/company/compjunior/">company</a> . I have ease in leadership and working with people and I learn quickly.
 </details>
 
 <details open>
