@@ -1,6 +1,8 @@
 # :duck: Diego Marques
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=755&lines=Graduating+in+Computer+Science+(Mobile%2FFront-end))](https://github.com/diegomarqueszs)
+<p>:pencil2:Ux Portfólio: https://www.behance.net/diegomarqueszs </p>
+
 <details open>
 <summary><h3>:man_student: About me</h3></summary>
 <br>
